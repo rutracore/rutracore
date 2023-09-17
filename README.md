@@ -20,7 +20,8 @@ Estranho né? Sim, eu já estou sabendo...\
 <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 </p>
 </div>
-##Minhas principais experiências:
+
+## Minhas principais experiências:
 Durante minha pós-graduação em Ciência Animal, desenvolvi aplicações que utilizavam redes neurais artificiais afim de auxiliar o médico veterinário a executar exames laboratoriais, utilizando os princípios A.C.E. (<b>Agilidade</b> no diagnóstico; <b>Conforto</b> para o profissional; <b>Expansividade</b> de Software).
 
 
