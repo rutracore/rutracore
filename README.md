@@ -23,7 +23,7 @@ Estranho né? Sim, eu já estou sabendo...\
 </p>
 </div>
 
-### Minhas principais experiências:
+## Minhas principais experiências:
 
 ## Academicamente
 Durante minha pós-graduação em Ciência Animal, desenvolvi aplicações que utilizavam redes neurais artificiais afim de auxiliar o médico veterinário a executar exames laboratoriais, utilizando os princípios A.C.E. (<b>Agilidade</b> no diagnóstico; <b>Conforto</b> para o profissional; <b>Expansividade</b> de Software).\
