@@ -27,7 +27,7 @@ Strange, isn't it? Yeah, I'm aware of that...
 # My main experiences:
 
 ### Academically 🎓 
-During my Master's and PhD. in Animal Science, I developed some apps that used neural networks aiming to assist the veterinarian on executing laboratory tests, considering the A.C.E principle (<b>Agility</b>; <b>Comfort</b>; <b>Expansivity</b>). \
+During my Master's and PhD. in Animal Science, I developed some apps that used neural networks aiming to assist the veterinarian on executing laboratory tests, considering the A.C.E principle (<b>Agility</b>; <b>Comfort</b>; <b>Expansivity</b>).
 
 
 
