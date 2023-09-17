@@ -37,9 +37,11 @@ Já utilizei as engines Gamemaker (que hoje é minha engine favorita) e Unity. M
 Já utilizei frameworks, como por exemplo MonoGame, para entender de maneira mais aprofundada o que realmente ocorre por trás dos panos de alguns games.
 
 
-# Quer discutir algum projeto? Falar algo sobre Medicina Veterinária? Conversar potoca?
+## Quer discutir algum projeto? Falar algo sobre Medicina Veterinária? Conversar potoca?
 <a href="https://instagram.com/arturtrivet"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:arturtrindade1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+### Aceito trabalho freelancer kk
 
 
 
