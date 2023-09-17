@@ -20,7 +20,7 @@ Estranho né? Sim, eu já estou sabendo...\
 <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
  <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/Gamemaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white"/></a>
  <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/MonoGame-E73C00?style=for-the-badge&logo=monogame&logoColor=white"/></a>
-  <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/C\#-239120?style=for-the-badge&logo=csharp&logoColor=black"/></a>
+  <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=black"/></a>
 </p>
 </div>
 
