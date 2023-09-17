@@ -29,7 +29,7 @@ Estranho né? Sim, eu já estou sabendo...\
 Durante minha pós-graduação em Ciência Animal, desenvolvi aplicações que utilizavam redes neurais artificiais afim de auxiliar o médico veterinário a executar exames laboratoriais, utilizando os princípios A.C.E. (<b>Agilidade</b> no diagnóstico; <b>Conforto</b> para o profissional; <b>Expansividade</b> de Software).\
 Pretendo criar uma aplicação que disponibilize o cronograma de um congresso de medicina veterinária, e que também atualize em tempo real quais palestrantes estão em palco\
 
-# Projetos pessoais
+# Projetos pessoais :rage1:
 Eu gosto de jogos, mas não jogo tanto... Confuso? Imagino que sim.\
 É que atualmente prefiro estudar e desenvolver meus jogos do que jogar.\
 Já utilizei as engines Gamemaker (que hoje é minha engine favorita) e Unity. Mas não me limitei à elas... Também estudei desenvolvimento de engines, e como "bonus" tive de aprender matemática computacional, computação gráfica, shaders e várias outras áreas acopladas no desenvolvimento de Game Engines.\
