@@ -39,7 +39,7 @@ Já utilizei frameworks, como por exemplo MonoGame, para entender de maneira mai
 
 ## Quer discutir algum projeto? Falar algo sobre Medicina Veterinária? Conversar potoca?
 <a href="https://instagram.com/arturtrivet"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:arturtrindade1@gmail.com"><img src="https://img.shields.io/badge/arturtrindade1-@gmail-.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:arturtrindade1@gmail.com"><img src="https://img.shields.io/badge/arturtrindade1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### Aceito trabalho freelancer kk
 
