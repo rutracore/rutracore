@@ -4,7 +4,7 @@
 🇧🇷 Moro nesse lugar ai\
 🎓 Eterno estudante... \
 Sou médico veterinário, mestre e doutor em Ciência Animal pela Universidade Federal de Goiás (UFG), mas também estou cursando Ciência da Computação como segunda graduação!\
-Estranho né? Sim, eu já estou sabendo... \
+Estranho né? Sim, eu já estou sabendo... 
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Coisas que já sei fuçar
 <div>
