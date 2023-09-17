@@ -18,7 +18,7 @@ Estranho né? Sim, eu já estou sabendo...\
 <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black"/></a>
 <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
- <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/Gamemaker-000000?style=for-the-badge&logo=gamemaker&logoColor=black"/></a>
+ <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/Gamemaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white"/></a>
 </p>
 </div>
 
