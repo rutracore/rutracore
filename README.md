@@ -32,8 +32,8 @@ During my Master's and PhD. in Animal Science, I developed some apps that used n
 
 
 ### Personal projects: :rage1:
-I like games, but more than playing I like game development. I've already used popular Game Engines like GameMaker and Unity. I also played a little with some Frameworks such as Monogame in order to understand how the game flow works behind the curtains. \
-I've studied Game Engine development, and as a "bonus", I also had to study computer maths, computer graphics, shader languages and many other subjects attached to the Game Engine development field of study! \
+I like games, but more than playing I like game development. I've already used popular Game Engines like GameMaker and Unity. I also played a little with some Frameworks such as Monogame in order to understand how the game flow works behind the curtains. 
+I've studied Game Engine development, and as a "bonus", I also had to study computer maths, computer graphics, shader languages and many other subjects attached to the Game Engine development field of study! 
 
 
 ## Want to talk about some projects of yours? Maybe something about veterinary stuff? Or even just chit chat?
