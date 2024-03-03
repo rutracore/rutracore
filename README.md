@@ -1,9 +1,9 @@
-### Olá, confrades!
+### Olá!
 
 :suspect: Hi, I'm Artur\
 🇧🇷 I live in this country\
 🎓 Eternal student... \
-I'm a Veterinary Doctor, with a Master's and a PhD by Universidade Federal de Goiás (UFG), but I'm also doing my second graduation in Computer Science!\
+I'm a Veterinary Doctor, with a Master's and a PhD by Universidade Federal de Goiás (UFG), also on my second graduation in Computer Science!\
 Strange, isn't it? Yeah, I'm aware of that...
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='20px' height='20px'> Things I'm already PRO (Just Kidding)
@@ -27,18 +27,13 @@ Strange, isn't it? Yeah, I'm aware of that...
 # My main experiences:
 
 ### Academically 🎓 
-During my Master's and PhD. in Animal Science, I developed some apps that used neural networks aiming to assist the veterinarian on executing laboratory tests, considering the A.C.E principle (<b>Agility</b>; <b>Comfort</b>; <b>Expansivity</b>).
+During my Master's and PhD. in Animal Science, I developed some apps that used neural networks aiming to assist the veterinarian on executing laboratory tests.
 
 
 
 ### Personal projects: :rage1:
-I like games, but more than playing I like game development. I've already used popular Game Engines like GameMaker and Unity. I also played a little with some Frameworks such as Monogame in order to understand how the game flow works behind the curtains. 
-I've studied Game Engine development, and as a "bonus", I also had to study computer maths, computer graphics, shader languages and many other subjects attached to the Game Engine development field of study! 
-
-
-## Want to talk about some projects of yours? Maybe something about veterinary stuff? Or even just chit chat?
-<a href="https://instagram.com/arturtrivet"><img src="https://img.shields.io/badge/-Arturtrivet-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:arturtrindade1@gmail.com"><img src="https://img.shields.io/badge/arturtrindade1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+I like games, but more than that, I like game development. I've already used popular Game Engines like GameMaker, Godot, Unreal and Unity. I also tried some Frameworks such as Monogame and Raylib and some <b>underground stuff</b> like OpenGL and Vulkan.
+I also like to develop softwares that help me do my veterinarian job.
 
 ### If you need something, let me know ;) 
 
