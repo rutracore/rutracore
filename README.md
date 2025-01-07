@@ -37,7 +37,7 @@ I like games, but more than that, I like game development. I've already used pop
 I also like to develop softwares that help me do my veterinarian job.
 
 ### If you need something, let me know ;) 
-##   <a href="https://github.com/rutradam"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+##   <a href="mailto:drarturtrindade@gmail.com?subject=Came from you Github profile"/></a>
 
 
 
