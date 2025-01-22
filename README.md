@@ -6,23 +6,14 @@
 </summary>
 <p>Hi, I'm Artur <sub>Yes, that's right, no H after the T🤬</sub></p>
 
-I do many **_different_** things
+I do many **_different_** things</p>
 
-### Check it out
+## Check it out
 
-I'm a everlasting student
-=========================
+### I'm a everlasting student
 
-I'm a  
-Doctor of Veterinary Medicine  
-(DVM)  
-with a  
-Master's  
-and a  
-PhD  
-  
-and a  
-Computer Science degree  
+I'm a Doctor of Veterinary Medicine (DVM) with a Master's and a PhD degree \
+**But I also have a**<p style="font-size: 20pt;">Computer Science degree</p>
   
 
 Things I'm already PRO Just kidding
